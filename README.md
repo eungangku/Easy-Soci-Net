@@ -5,7 +5,7 @@
 Easy-to-use Socinet.go.kr Windows application made for foreign Korean students. 
 
 ## Key Features
-- **Course Application, Suspend, Print Confirmation** in your language.
+- **~~Course Application~~(Under development), Suspend, Print Confirmation** in your language.
 
 #### Supported Languages
 ```
